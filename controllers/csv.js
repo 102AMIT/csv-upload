@@ -72,5 +72,6 @@ module.exports.delete= async function(req,res){
       return res.redirect('back')
     }else{
       console.log("error in deleting file from database");
+      
     }
 }
