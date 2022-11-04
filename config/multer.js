@@ -25,6 +25,7 @@ var multerSigleUpload = multer({
     }
     // I want next function to validate real ext of files here. 
     cb(null, true);
+    
        
     }
 });
