@@ -1,16 +1,17 @@
 # csv-upload APP
 
+> This time i will work with external data, as in ‘csv’ files. we will need to upload a CSV file and show the
+data in it
 
-# Habit Tracker App
-> A habit tracking app that will help you to create and maintain an awesome daily and weekly routine, which is one of the most powerful tools for achieving your goals and sending your life into an upwards spiral.
-
-hosted link on heroku : https://habit-tracker-amit.herokuapp.com/
+hosted link on heroku :  https://csv-upload-amit.herokuapp.com/
 
 ## Technologies Used
 1.  NodeJS
 2.  Express
 3.  EJS
 4.  MongoDB
+5.  Multer
+6.  csv-parser
 
 ## Prerequisites
 - MongoDB
