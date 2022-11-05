@@ -13,6 +13,6 @@ router.post('/upload/csv',csv.create);
 
 // For delete Csv File
 
-router.delete('/:id/delete',csv.delete);
+router.get('/:id/delete',csv.delete);
 
 module.exports=router;
